@@ -1,0 +1,31 @@
+h5{
+    color: white;
+}
+h6 {
+    color: white;
+}
+
+.szary1 {
+    background-color: #1d1d1d;
+}
+
+.main {
+    width: 75%;
+    height: 20%;
+    padding-left: 25%;
+    padding-top: 3%;
+    background-color: #1d1d1d;
+}
+
+.szary2 {
+    background-color: #181818;
+}
+
+.zolty {
+    color: #fff200;
+}
+
+.button {
+    background-color: #fff200;
+    color: black;
+}

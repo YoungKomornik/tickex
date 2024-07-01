@@ -1,0 +1,60 @@
+body {
+    background-color: #1d1d1d;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h3{
+    color: #fff200;
+}
+.btn-color{
+    background-color: #fff200 !important;
+    color: #1d1d1d !important;
+
+}
+.content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.content-wrapper img {
+    flex-basis: 50%;
+    max-width: 100%;
+}
+
+.content-wrapper .content-div {
+    flex-basis: 50%;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .content-wrapper {
+        flex-direction: column;
+    }
+    .content-wrapper img,
+    .content-wrapper .content-div {
+        flex-basis: 100%;
+        
+    }
+    .text-uppercase {
+        font-size: 3vw;
+    }
+}
+
+#zdjevent{
+    height: 30vw; max-width: 30vw; margin: 5vw 5vw 5vw; margin-right: 10vw;
+}
+.zolte{
+    color:#fff200;
+}
+#biale{
+    color:white;
+}
+#powrot{
+    float:right;
+}
+#kupbilet{
+    background-color:#fff200;
+    color:black;
+}

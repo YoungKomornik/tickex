@@ -1,0 +1,20 @@
+#TicketAmount{
+    padding-right: 3em;
+    color: white !important;
+  }
+  #payment{
+    color:#fff200;
+    font-size:35px
+  }
+  #savedcards{
+    color:#fff200;
+    font-size:20px
+  }
+  #zolty{
+    color:#fff200;
+  }
+  #button1{
+    background-color:#fff200;
+    color:black;
+    float:right;
+  }

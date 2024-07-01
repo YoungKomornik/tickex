@@ -1,0 +1,34 @@
+section {
+    background-color: #181818;
+}
+
+span {
+    color: #fff200;
+    font-size: 2vw
+}
+
+.yellow {
+    color: #fff200;
+}
+
+.ticket-under {
+    height: 5vmax
+}
+
+.main {
+    padding-top: 9%;
+}
+
+.ticket-2under {
+    font-size: .77rem;
+}
+
+#logout {
+    background-color: #fff200 !important;
+    color: black !important;
+}
+
+.bilet {
+    max-height: 10px;
+    max-width: 10px;
+}

@@ -1,0 +1,15 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+    background-color: #1d1d1d;
+    color: white;
+    font-family: sans-serif;
+}
+footer{
+  background-color: #fff200;
+}
+footer h5{
+  color: black;
+}
